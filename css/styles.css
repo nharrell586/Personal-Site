@@ -46,6 +46,16 @@ p {
   text-align: left;
 }
 
+.data-sciience-txt{
+  padding-left: 160px;
+}
+
+.profile-pic {
+  height: 250px;
+  width: 250px;
+  border-radius: 50%;
+}
+
 .top-container {
   background-color: #A3E4DB;
   position: relative;
